@@ -1,0 +1,8 @@
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\obj\Debug\Jira_Template_Builder.JiraTB.resources
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\obj\Debug\Phab_Template_Builder.Properties.Resources.resources
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\obj\Debug\Jira Template Builder.csproj.GenerateResource.cache
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\obj\Debug\Phab Template Builder.exe
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\obj\Debug\Phab Template Builder.pdb
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\bin\Debug\Phab Template Builder.exe.config
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\bin\Debug\Phab Template Builder.exe
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\bin\Debug\Phab Template Builder.pdb

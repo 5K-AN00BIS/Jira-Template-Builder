@@ -1,0 +1,9 @@
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\bin\Release\Phab Template Builder.exe.config
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\bin\Release\Phab Template Builder.exe
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\bin\Release\Phab Template Builder.pdb
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\obj\Release\Phab_Template_Builder.Form1.resources
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\obj\Release\Phab_Template_Builder.Properties.Resources.resources
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\obj\Release\Phab Template Builder.csproj.GenerateResource.cache
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\obj\Release\Phab Template Builder.csproj.CoreCompileInputs.cache
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\obj\Release\Phab Template Builder.exe
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\obj\Release\Phab Template Builder.pdb

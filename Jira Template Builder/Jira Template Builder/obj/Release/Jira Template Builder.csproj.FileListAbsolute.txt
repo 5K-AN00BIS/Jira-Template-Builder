@@ -1,0 +1,9 @@
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\obj\Release\Jira_Template_Builder.JiraTB.resources
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\obj\Release\Phab_Template_Builder.Properties.Resources.resources
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\obj\Release\Jira Template Builder.csproj.GenerateResource.cache
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\obj\Release\Phab Template Builder.exe
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\obj\Release\Phab Template Builder.pdb
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\bin\Release\Phab Template Builder.exe.config
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\bin\Release\Phab Template Builder.exe
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\bin\Release\Phab Template Builder.pdb
+C:\Users\ryan.b\source\repos\Jira Template Builder\Phab Template Builder\obj\Release\Jira Template Builder.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\bin\Debug\Phab Template Builder.exe.config
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\bin\Debug\Phab Template Builder.exe
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\bin\Debug\Phab Template Builder.pdb
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\obj\Debug\Phab_Template_Builder.Form1.resources
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\obj\Debug\Phab_Template_Builder.Properties.Resources.resources
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\obj\Debug\Phab Template Builder.csproj.GenerateResource.cache
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\obj\Debug\Phab Template Builder.csproj.CoreCompileInputs.cache
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\obj\Debug\Phab Template Builder.exe
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\obj\Debug\Phab Template Builder.pdb
+C:\Users\ryan.b\source\repos\Phab Template Builder\Phab Template Builder\obj\Debug\Phab Template Builder.csprojAssemblyReference.cache
